@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ihcen</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="led1_text">alumer Led 1</string>
+    <string name="led2_text">allumer Led 2</string>
+    <string name="led3_text">allumer led 3</string>
+    <string name="led7_text">allumer led 7</string>
+    <string name="led6_text">allumer led 6</string>
+    <string name="led5_text">allumer led 5</string>
+    <string name="led4_text">allumer led 4</string>
+    <string name="led8_text">allumer led 8</string>
+    <string name="servo2_text">pivoter servo moteur</string>
+    <string name="servo3_text">pivoter servo2</string>
+    <string name="servo5_text">pivoter servo4</string>
+    <string name="servo6_text">pivoter servo5</string>
+    <string name="servo7_text">pivoter servo6</string>
+
+
+</resources>
